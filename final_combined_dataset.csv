@@ -1,0 +1,144 @@
+Crop,Year,Element,Yield_kg_per_ha,Unit,DateTime,Temperature_C,Humidity_%,Rainfall_mm,NDVI_mean
+Apples,2013,Yield,6137.8,kg/ha,2025-06-19 09:00:00,34.19,46.0,0.57,0.2825
+Apples,2014,Yield,7978.8,kg/ha,2025-06-19 12:00:00,33.78,47.0,0.78,0.2761
+Apples,2015,Yield,6689.7,kg/ha,2025-06-19 15:00:00,29.31,68.0,5.65,0.284
+Apples,2016,Yield,9101.1,kg/ha,2025-06-19 18:00:00,26.72,61.0,3.64,0.2927
+Apples,2017,Yield,7426.2,kg/ha,2025-06-19 21:00:00,27.28,65.0,0.1,0.2752
+Apples,2018,Yield,7730.9,kg/ha,2025-06-20 00:00:00,27.86,67.0,0.59,0.2752
+Apples,2019,Yield,7519.5,kg/ha,2025-06-20 03:00:00,24.89,87.0,2.26,0.2933
+Apples,2020,Yield,9077.4,kg/ha,2025-06-20 06:00:00,27.24,72.0,0.96,0.2852
+Apples,2021,Yield,7271.6,kg/ha,2025-06-20 09:00:00,28.4,65.0,0.87,0.2728
+Apples,2022,Yield,8219.0,kg/ha,2025-06-20 12:00:00,27.19,72.0,0.22,0.2829
+Apples,2023,Yield,9460.5,kg/ha,2025-06-20 15:00:00,27.41,72.0,0.32,0.2729
+Areca nuts,2013,Yield,1365.5,kg/ha,2025-06-20 18:00:00,27.28,73.0,0.0,0.2728
+Areca nuts,2014,Yield,1376.1,kg/ha,2025-06-20 21:00:00,26.13,80.0,1.53,0.2799
+Areca nuts,2015,Yield,1660.0,kg/ha,2025-06-21 00:00:00,26.56,78.0,0.49,0.2584
+Areca nuts,2016,Yield,1506.3,kg/ha,2025-06-21 03:00:00,27.83,71.0,0.0,0.2603
+Areca nuts,2017,Yield,1589.0,kg/ha,2025-06-21 06:00:00,28.18,66.0,0.0,0.2719
+Areca nuts,2018,Yield,1676.1,kg/ha,2025-06-21 09:00:00,31.31,54.0,0.0,0.2674
+Areca nuts,2019,Yield,1726.1,kg/ha,2025-06-21 12:00:00,32.46,48.0,0.0,0.2806
+Areca nuts,2020,Yield,1850.1,kg/ha,2025-06-21 15:00:00,29.91,59.0,0.0,0.2684
+Areca nuts,2021,Yield,1968.5,kg/ha,2025-06-21 18:00:00,28.62,66.0,0.0,0.2634
+Areca nuts,2022,Yield,1962.3,kg/ha,2025-06-21 21:00:00,27.85,69.0,0.0,0.2922
+Areca nuts,2023,Yield,1459.5,kg/ha,2025-06-22 00:00:00,27.5,70.0,0.0,0.2752
+Cauliflowers and broccoli,2013,Yield,19619.4,kg/ha,2025-06-22 03:00:00,30.21,57.0,0.0,0.2782
+Cauliflowers and broccoli,2014,Yield,19760.0,kg/ha,2025-06-22 06:00:00,33.9,43.0,0.0,0.2633
+Cauliflowers and broccoli,2015,Yield,19284.7,kg/ha,2025-06-22 09:00:00,36.42,33.0,0.0,0.2721
+Cauliflowers and broccoli,2016,Yield,18990.6,kg/ha,2025-06-22 12:00:00,36.15,33.0,0.0,0.2786
+Cauliflowers and broccoli,2017,Yield,18848.0,kg/ha,2025-06-22 15:00:00,33.26,43.0,0.0,0.266
+Cauliflowers and broccoli,2018,Yield,19134.7,kg/ha,2025-06-22 18:00:00,31.58,50.0,0.0,0.2813
+Cauliflowers and broccoli,2019,Yield,19533.3,kg/ha,2025-06-22 21:00:00,29.64,59.0,0.0,0.2715
+Cauliflowers and broccoli,2020,Yield,19145.6,kg/ha,2025-06-23 00:00:00,29.03,60.0,0.0,0.2746
+Cauliflowers and broccoli,2021,Yield,19503.2,kg/ha,2025-06-23 03:00:00,29.19,57.0,0.0,0.2715
+Cauliflowers and broccoli,2022,Yield,19887.7,kg/ha,2025-06-23 06:00:00,32.31,48.0,0.0,0.296
+Cauliflowers and broccoli,2023,Yield,19446.0,kg/ha,2025-06-23 09:00:00,34.82,40.0,0.0,0.2774
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2013,Yield,8500.0,kg/ha,2025-06-23 12:00:00,34.21,40.0,0.0,0.2669
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2014,Yield,8473.9,kg/ha,2025-06-23 15:00:00,33.05,43.0,0.0,0.2857
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2015,Yield,8428.1,kg/ha,2025-06-23 18:00:00,31.83,49.0,0.0,0.2653
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2016,Yield,8466.4,kg/ha,2025-06-23 21:00:00,29.73,57.0,0.5,0.2796
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2017,Yield,8454.4,kg/ha,2025-06-24 00:00:00,28.11,63.0,0.0,0.2579
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2018,Yield,8424.8,kg/ha,2025-06-24 03:00:00,29.01,58.0,0.0,0.2642
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2019,Yield,8390.5,kg/ha,2025-06-24 06:00:00,31.49,48.0,0.0,0.2795
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2020,Yield,8700.2,kg/ha,,,,,0.2849
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2021,Yield,8504.6,kg/ha,,,,,0.2792
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,Yield,8531.0,kg/ha,,,,,0.2763
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,Yield,8578.4,kg/ha,,,,,0.2745
+"Coconuts, in shell",2013,Yield,5574.8,kg/ha,,,,,0.2627
+"Coconuts, in shell",2014,Yield,5607.3,kg/ha,,,,,0.2703
+"Coconuts, in shell",2015,Yield,5367.3,kg/ha,,,,,0.2729
+"Coconuts, in shell",2016,Yield,5448.8,kg/ha,,,,,0.2881
+"Coconuts, in shell",2017,Yield,5366.1,kg/ha,,,,,0.2809
+"Coconuts, in shell",2018,Yield,7826.9,kg/ha,,,,,0.2599
+"Coconuts, in shell",2019,Yield,6825.7,kg/ha,,,,,0.2807
+"Coconuts, in shell",2020,Yield,6445.5,kg/ha,,,,,0.2736
+"Coconuts, in shell",2021,Yield,6503.4,kg/ha,,,,,0.2707
+"Coconuts, in shell",2022,Yield,6182.5,kg/ha,,,,,0.2836
+"Coconuts, in shell",2023,Yield,6220.0,kg/ha,,,,,0.2878
+"Coffee, green",2013,Yield,845.6,kg/ha,,,,,0.2868
+"Coffee, green",2014,Yield,798.6,kg/ha,,,,,0.2691
+"Coffee, green",2015,Yield,772.6,kg/ha,,,,,0.2744
+"Coffee, green",2016,Yield,801.0,kg/ha,,,,,0.2808
+"Coffee, green",2017,Yield,694.3,kg/ha,,,,,0.2873
+"Coffee, green",2018,Yield,765.1,kg/ha,,,,,0.2727
+"Coffee, green",2019,Yield,766.7,kg/ha,,,,,0.2756
+"Coffee, green",2020,Yield,712.6,kg/ha,,,,,0.2664
+"Coffee, green",2021,Yield,789.7,kg/ha,,,,,0.2655
+"Coffee, green",2022,Yield,774.2,kg/ha,,,,,0.2856
+"Coffee, green",2023,Yield,760.2,kg/ha,,,,,0.2911
+Maize (corn),2013,Yield,2572.6,kg/ha,,,,,0.2768
+Maize (corn),2014,Yield,2572.6,kg/ha,,,,,0.2875
+Maize (corn),2015,Yield,2610.7,kg/ha,,,,,0.2811
+Maize (corn),2016,Yield,2597.2,kg/ha,,,,,0.271
+Maize (corn),2017,Yield,2688.6,kg/ha,,,,,0.2811
+Maize (corn),2018,Yield,3065.3,kg/ha,,,,,0.2929
+Maize (corn),2019,Yield,3070.2,kg/ha,,,,,0.2771
+Maize (corn),2020,Yield,3006.1,kg/ha,,,,,0.2931
+Maize (corn),2021,Yield,3199.3,kg/ha,,,,,0.2513
+Maize (corn),2022,Yield,3387.2,kg/ha,,,,,0.2857
+Maize (corn),2023,Yield,3544.9,kg/ha,,,,,0.2784
+"Peas, green",2013,Yield,9518.2,kg/ha,,,,,0.2745
+"Peas, green",2014,Yield,8922.9,kg/ha,,,,,0.2784
+"Peas, green",2015,Yield,9773.1,kg/ha,,,,,0.2576
+"Peas, green",2016,Yield,9660.6,kg/ha,,,,,0.2753
+"Peas, green",2017,Yield,10084.9,kg/ha,,,,,0.2811
+"Peas, green",2018,Yield,10040.7,kg/ha,,,,,0.2923
+"Peas, green",2019,Yield,10076.1,kg/ha,,,,,0.2723
+"Peas, green",2020,Yield,10295.8,kg/ha,,,,,0.2694
+"Peas, green",2021,Yield,10310.4,kg/ha,,,,,0.2725
+"Peas, green",2022,Yield,10478.0,kg/ha,,,,,0.2867
+"Peas, green",2023,Yield,10824.3,kg/ha,,,,,0.2808
+Potatoes,2013,Yield,22760.6,kg/ha,,,,,0.2722
+Potatoes,2014,Yield,22922.4,kg/ha,,,,,0.2826
+Potatoes,2015,Yield,23125.7,kg/ha,,,,,0.2785
+Potatoes,2016,Yield,20508.7,kg/ha,,,,,0.2872
+Potatoes,2017,Yield,22306.1,kg/ha,,,,,0.2705
+Potatoes,2018,Yield,23954.2,kg/ha,,,,,0.2742
+Potatoes,2019,Yield,23097.1,kg/ha,,,,,0.2736
+Potatoes,2020,Yield,23677.2,kg/ha,,,,,0.2629
+Potatoes,2021,Yield,24123.7,kg/ha,,,,,0.2805
+Potatoes,2022,Yield,25236.3,kg/ha,,,,,0.2801
+Potatoes,2023,Yield,25789.9,kg/ha,,,,,0.2776
+Rice,2013,Yield,3624.3,kg/ha,,,,,0.2752
+Rice,2014,Yield,3586.8,kg/ha,,,,,0.2633
+Rice,2015,Yield,3600.2,kg/ha,,,,,0.2733
+Rice,2016,Yield,3740.1,kg/ha,,,,,0.2741
+Rice,2017,Yield,3863.7,kg/ha,,,,,0.2695
+Rice,2018,Yield,3956.7,kg/ha,,,,,0.2759
+Rice,2019,Yield,4083.6,kg/ha,,,,,0.2815
+Rice,2020,Yield,4075.7,kg/ha,,,,,0.2964
+Rice,2021,Yield,4196.2,kg/ha,,,,,0.2792
+Rice,2022,Yield,4257.1,kg/ha,,,,,0.2801
+Rice,2023,Yield,4322.3,kg/ha,,,,,0.2768
+Sugar cane,2013,Yield,68240.0,kg/ha,,,,,0.2583
+Sugar cane,2014,Yield,70569.5,kg/ha,,,,,0.2772
+Sugar cane,2015,Yield,71466.1,kg/ha,,,,,0.2781
+Sugar cane,2016,Yield,70393.5,kg/ha,,,,,0.3021
+Sugar cane,2017,Yield,69001.4,kg/ha,,,,,0.2756
+Sugar cane,2018,Yield,80198.4,kg/ha,,,,,0.2805
+Sugar cane,2019,Yield,80104.5,kg/ha,,,,,0.2772
+Sugar cane,2020,Yield,80496.6,kg/ha,,,,,0.2658
+Sugar cane,2021,Yield,83566.2,kg/ha,,,,,0.2889
+Sugar cane,2022,Yield,84906.3,kg/ha,,,,,0.285
+Sugar cane,2023,Yield,83348.7,kg/ha,,,,,0.2854
+Tea leaves,2013,Yield,9319.5,kg/ha,,,,,0.2684
+Tea leaves,2014,Yield,8690.4,kg/ha,,,,,0.2915
+Tea leaves,2015,Yield,9460.7,kg/ha,,,,,0.2635
+Tea leaves,2016,Yield,9415.0,kg/ha,,,,,0.2834
+Tea leaves,2017,Yield,9267.9,kg/ha,,,,,0.2994
+Tea leaves,2018,Yield,9357.1,kg/ha,,,,,0.2676
+Tea leaves,2019,Yield,9484.9,kg/ha,,,,,0.2718
+Tea leaves,2020,Yield,9767.2,kg/ha,,,,,0.2785
+Tea leaves,2021,Yield,9951.9,kg/ha,,,,,0.2725
+Tea leaves,2022,Yield,10101.1,kg/ha,,,,,0.262
+Tea leaves,2023,Yield,10250.4,kg/ha,,,,,0.2782
+Wheat,2013,Yield,3153.8,kg/ha,,,,,0.2669
+Wheat,2014,Yield,3145.7,kg/ha,,,,,0.2822
+Wheat,2015,Yield,2749.6,kg/ha,,,,,0.2683
+Wheat,2016,Yield,3033.9,kg/ha,,,,,0.293
+Wheat,2017,Yield,3199.9,kg/ha,,,,,0.2697
+Wheat,2018,Yield,3368.2,kg/ha,,,,,0.2743
+Wheat,2019,Yield,3533.4,kg/ha,,,,,0.2856
+Wheat,2020,Yield,3439.8,kg/ha,,,,,0.2652
+Wheat,2021,Yield,3520.8,kg/ha,,,,,0.2798
+Wheat,2022,Yield,3537.3,kg/ha,,,,,0.2906
+Wheat,2023,Yield,3520.7,kg/ha,,,,,0.2614
