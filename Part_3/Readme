@@ -1,88 +1,67 @@
-# 🌾 **Crop Yield Prediction using NDVI, Weather & Machine Learning**
+# 🌾 Crop Yield Prediction using NDVI, Weather & Machine Learning
 
 An end-to-end **AI-powered agriculture analytics project** that predicts crop yield in India using:
 
-- ✅ **Historical crop yield (FAOSTAT)**
-- ✅ **Weather forecast (OpenWeatherMap API)**
-- ✅ **Satellite NDVI data (Google Earth Engine)**
-- ✅ **Machine Learning model (Feedforward Neural Network)**
-- ✅ **Interactive visualization dashboard (Streamlit)**
+### ✅ Data Sources Used:
+- 📊 **Historical Crop Yield** — FAOSTAT (2013–2022)
+- ☁️ **Weather Forecast** — OpenWeatherMap API
+- 🛰️ **Satellite NDVI Data** — Google Earth Engine (Sentinel-2)
+- 🧠 **Machine Learning Model** — Feedforward Neural Network
+- 📈 **Interactive Dashboard** — Streamlit
 
 ---
 
-## 🔑 **Key Features**
+## 🔑 Key Features
 
-- 📌 Cleaned and curated **FAO crop yield data**
-- ☁️ Real-time **weather forecast** data integration
-- 🛰 **NDVI feature extraction** using Sentinel-2 satellite imagery
-- 🤖 Trained a **neural network model** using TensorFlow/Keras
-- 📊 Designed a **Streamlit dashboard** for interactive insights and predictions
-
----
-
-## 🌐 **Data Sources**
-
-| 📁 Dataset               | 📝 Description                                     | 🔗 Source |
-|-------------------------|---------------------------------------------------|-----------|
-| FAOSTAT Crop Yield      | Annual crop yield data for India (2013–2022)     | [FAO](https://www.fao.org/faostat/en/) |
-| Sentinel-2 NDVI         | Vegetation health index (NDVI) via satellite     | [Google Earth Engine](https://developers.google.com/earth-engine) |
-| Weather Forecast        | 5-day forecast for temperature, humidity, rain   | [OpenWeatherMap](https://openweathermap.org/) |
+- 🧹 Cleaned and curated **FAO crop yield data**
+- 🌦️ Real-time **weather forecast** integration
+- 🛰️ NDVI extraction using **Sentinel-2 satellite imagery**
+- 🔮 Crop yield prediction using **ML model (TensorFlow)**
+- 📊 **NDVI vs Yield** correlation visualized
+- 📆 **Future yield projections** (2024–2030)
+- 🖥️ Streamlit dashboard for **visual analytics**
 
 ---
 
-## 💻 **Tech Stack**
+## 📚 Tech Stack
 
-| Layer         | Technology Used                          |
-|---------------|-------------------------------------------|
-| Language      | Python                                    |
-| ML Libraries  | `TensorFlow`, `Keras`, `Scikit-learn`     |
-| Data Handling | `Pandas`, `NumPy`                         |
-| Visualization | `Streamlit`, `Plotly`, `Matplotlib`, `Seaborn` |
-| API Services  | OpenWeatherMap API, Google Earth Engine   |
-
----
-
-## 🔁 **Workflow Summary**
-
-### 1. **Data Cleaning (FAO Crop Yield)**
-- Selected key columns: Crop, Year, Yield, Unit
-- Renamed and sorted the data, saved as `cleaned_crop_yield_india.csv`
-
-### 2. **Weather Forecast (OpenWeatherMap API)**
-- Fetched 5-day forecast (temperature, humidity, rainfall)
-- Saved as `forecast_weather_data.csv`
-
-### 3. **NDVI Calculation (Google Earth Engine)**
-- Used Sentinel-2 SR dataset for Nov 2023
-- Computed mean NDVI for India
-- Appended to yield and weather datasets
-
-### 4. **Model Design**
-- Features: Crop, Year, NDVI
-- Label encoded crop names
-- Trained a Feedforward Neural Net using TensorFlow
-- Final MAE: ~16,340 kg/ha
-
-### 5. **Visualization Dashboard**
-- Created interactive Streamlit UI with:
-  - NDVI estimation
-  - Yield trend analysis
-  - Forecasting for 2024–2030
-  - Crop-wise insights and weather impact
+| Layer        | Tools / Libraries                            |
+|--------------|-----------------------------------------------|
+| Data Source  | FAOSTAT, OpenWeatherMap, Google Earth Engine |
+| Backend      | Python, Pandas, NumPy, TensorFlow             |
+| ML Model     | Feedforward Neural Network (Keras)            |
+| Visualization| Streamlit, Plotly                             |
+| Others       | Earth Engine API, Requests, Sklearn           |
 
 ---
 
-## ▶️ **How to Run**
+## 🔄 Workflow Summary
 
-Make sure your project folder contains:
+1. **Data Loading & Cleaning**  
+   - FAOSTAT crop yield dataset (2013–2022) cleaned and filtered.
 
-- `Visualization.py` (your Streamlit app)
-- `final_combined_dataset.csv`
-- `forecast_weather_data_with_ndvi.csv`
-- `crop_yield_model.h5`
+2. **Weather Data Collection**  
+   - Real-time 5-day forecast using OpenWeatherMap API.
 
-Then open terminal and run:
+3. **Satellite Imagery (NDVI)**  
+   - NDVI calculated from Google Earth Engine Sentinel-2 imagery for India.
+
+4. **Feature Engineering & Fusion**  
+   - Merged NDVI, weather forecast, and crop data into a single dataset.
+
+5. **Model Building**  
+   - Feedforward Neural Network trained to predict crop yield (kg/ha).
+
+6. **Streamlit Dashboard**  
+   - Visualization dashboard to analyze yield trends, weather impact, NDVI heatmaps, and forecast predictions.
+
+---
+
+## ▶️ How to Run the Project
+
+Make sure all dependencies are installed (like Streamlit, TensorFlow, Pandas, etc.).
+
+Then run:
 
 ```bash
 python -m streamlit run Visualization.py
-
