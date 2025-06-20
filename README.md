@@ -2,7 +2,7 @@
 
 An end-to-end smart agriculture solution powered by **Deep Learning**, **Computer Vision**, **Weather Forecasting**, and **Satellite NDVI Analysis**, built for **real-time decision support in farming**.
 
-🚀 Built during **Internship - 2 - Hackathon-2025** to address productivity, disease management, and crop planning with ease.
+🚀 Built during **UG - BE - Internship - 2 - Hackathon-2025** to address productivity, disease management, and crop planning with ease.
 
 ---
 
