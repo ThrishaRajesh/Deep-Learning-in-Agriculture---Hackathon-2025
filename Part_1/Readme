@@ -1,1 +1,39 @@
+​̲𝑹​̲𝒆​̲𝒂​̲𝒍​̲-​̲𝑻​̲𝒊​̲𝒎​̲𝒆​̲ ​̲𝑳​̲𝒆​̲𝒂​̲𝒇​̲ ​̲𝑫​̲𝒊​̲𝒔​̲𝒆​̲𝒂​̲𝒔​̲𝒆​̲ ​̲𝑫​̲𝒆​̲𝒕​̲𝒆​̲𝒄​̲𝒕​̲𝒊​̲𝒐​̲𝒏​̲ ​̲𝒗​̲𝒊​̲𝒂​̲ ​̲𝑾​̲𝒆​̲𝒃​̲𝒄​̲𝒂​̲𝒎 | ​̲𝑶​̲𝒑​̲𝒆​̲𝒏​̲𝑪​̲𝑽​̲ ​̲+​̲ ​̲𝑫​̲𝑳
+
+A computer vision module that uses webcam feed to detect plant diseases in real-time using a pretrained MobileNetV2 deep learning model.
+
+
+✅ 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔:
+
+- 📷 Real-time webcam stream (𝐎𝐩𝐞𝐧𝐂𝐕)
+- 🔍 Frame-by-frame leaf disease detection
+- 🧠 Pretrained CNN model (𝐌𝐨𝐛𝐢𝐥𝐞𝐍𝐞𝐭𝐕𝟐)
+
+---
+
+🔍 𝑴𝒐𝒅𝒆𝒍 & 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏:
+
+- 🧠 Model: MobileNetV2 trained on PlantVillage
+- 📦 Dependencies: OpenCV, TensorFlow, Streamlit
+
+---
+
+💻 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌:
+
+| 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭    | 𝐓𝐨𝐨𝐥/𝐋𝐢𝐛𝐫𝐚𝐫𝐲       |
+|---------------|-------------------|
+| DL Inference  | TensorFlow        |
+| Real-time Feed| OpenCV            |
+| UI Dashboard  | Streamlit         |
+| Model Source  | PlantVillage DL   |
+
+---
+
+🧪 𝑾𝒐𝒓𝒌𝒇𝒍𝒐𝒘 𝑺𝒖𝒎𝒎𝒂𝒓𝒚:
+
+1. Launch webcam using OpenCV  
+2. For each frame:
+   - Preprocess → Resize, Normalize  
+   - Predict using DL model  
+   - Display output label in real-time  
 
