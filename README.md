@@ -1,4 +1,4 @@
-# 🌾 Smart Agriculture Intelligence System | Deep Learning + Streamlit + Satellite Data
+# 🌾 Smart Agriculture Intelligence System | Deep Learning
 
 An end-to-end smart agriculture solution powered by **Deep Learning**, **Computer Vision**, **Weather Forecasting**, and **Satellite NDVI Analysis**, built for **real-time decision support in farming**.
 
