@@ -13,7 +13,7 @@ A computer vision module that uses webcam feed to detect plant diseases in real-
 
 🔍 𝑴𝒐𝒅𝒆𝒍 & 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏:
 
-- 🧠 Model: MobileNetV2 trained on PlantVillage
+- 🧠 Model: Pretrained MobileNetV2 fine-tuned for leaf disease detection using the PlantVillage dataset
 - 📦 Dependencies: OpenCV, TensorFlow, Streamlit
 
 ---
