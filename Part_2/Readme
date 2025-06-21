@@ -5,18 +5,19 @@ A deep learning–powered pipeline that allows users to **upload plant leaf imag
 ---
 ✅ 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔:
 
-- 📤 Upload-based image disease detection
-- 🧠 Pretrained CNN model (𝐌𝐨𝐛𝐢𝐥𝐞𝐍𝐞𝐭𝐕𝟐)
-- 🔍 𝐆𝐫𝐚𝐝-𝐂𝐀𝐌 𝐡𝐞𝐚𝐭𝐦𝐚𝐩 visualizations
-- 🖼️ Streamlit UI for easy uploads and results
+- 📤 Image-based leaf disease prediction through file uploads
+- 🧠 Custom-trained CNN model using the PlantVillage dataset
+- 🔥 Grad-CAM heatmap for visual explanation of model focus
+- 🌿 Intuitive Streamlit UI for seamless interaction and results display
+- 📚 Includes disease information and treatment suggestions for user guidance
 
 ---
 
 🔍 𝑫𝒂𝒕𝒂 & 𝑴𝒐𝒅𝒆𝒍:
 
 - 📦 Dataset: [𝐏𝐥𝐚𝐧𝐭𝐕𝐢𝐥𝐥𝐚𝐠𝐞 𝐃𝐚𝐭𝐚𝐬𝐞𝐭](https://www.kaggle.com/datasets/emmarex/plantdisease)
-- 🧠 Model: Trained using 𝐌𝐨𝐛𝐢𝐥𝐞𝐍𝐞𝐭𝐕𝟐
-- 🔥 Explainability: 𝐆𝐫𝐚𝐝-𝐂𝐀𝐌 for heatmap visual insights
+- 🧠 Model: Custom-trained using 𝐌𝐨𝐛𝐢𝐥𝐞𝐍𝐞𝐭𝐕𝟐 architecture
+- 🔥 Explainability: Integrated 𝐆𝐫𝐚𝐝-𝐂𝐀𝐌 for heatmap visual insights
 
 ---
 
@@ -33,11 +34,11 @@ A deep learning–powered pipeline that allows users to **upload plant leaf imag
 
 🧪 𝑾𝒐𝒓𝒌𝒇𝒍𝒐𝒘 𝑺𝒖𝒎𝒎𝒂𝒓𝒚:
 
-1. Upload Image via Streamlit interface  
-2. Image gets preprocessed (resized, normalized)  
-3. Model predicts disease label  
-4. Grad-CAM generates heatmap over diseased area  
-5. Final prediction + visualization shown on UI  
+1. 📤 User uploads a leaf image via the Streamlit interface
+2. 🛠️ Image is preprocessed (resized and normalized)
+3. 🧠 The custom CNN model predicts the disease label
+4. 🔍 Grad-CAM generates a heatmap highlighting affected regions
+5. 🎯 Final prediction, visualization, and disease info displayed in the UI  
 
 ---
 
