@@ -43,28 +43,28 @@ An end-to-end smart agriculture solution powered by **Deep Learning**, **Compute
 
 ## 👥 Team Roles & Responsibilities
 
-### 👨‍💻 Person A – **Real-Time Detection via Webcam**
+### 👨‍💻 Yashaswini K M – **Real-Time Detection via Webcam**
 
 - 🎥 Captures live frames via **OpenCV**
-- 🧠 Model trained using MobileNetV2
+- 🧠 Uses a pre-trained **MobileNetV2 model**
 - 🔍 Runs predictions on each frame in real-time
 
 > 📁 `leaf_disease_camera.py`
 
 ---
 
-### 👩‍💻 Person B – **Leaf Disease Detection + Grad-CAM**
+### 👩‍💻 Vismaya M – **Leaf Disease Detection + Grad-CAM**
 
-- 📦 Uses **PlantVillage dataset**
-- 📤 Upload image → Predict → Display heatmap
-- 🧠 Loads same DL model as Person A
-- 🖼️ Uses Grad-CAM to visualize the model’s attention
+- 📊 Trained a custom CNN model on the PlantVillage dataset
+- 📤 Allows users to upload leaf images for disease classification
+- 🖼️ Implements Grad-CAM to show what parts of the leaf the model focused on
+- 📚 Shows detailed disease information and treatment suggestions for user awareness
 
 > 📁 `leaf_disease_upload.py`
 
 ---
 
-### 👩‍💻 Person C – **Crop Yield Prediction + Dashboard**
+### 👩‍💻 Thrisha R – **Crop Yield Prediction + Dashboard**
 
 - 🔬 Fuses NDVI + Year + Crop into a prediction model
 - 📊 Dashboard visualizes:
